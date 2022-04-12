@@ -9,5 +9,7 @@ This is a general purpose ChatBot about retail clothing and accessories. The Cha
 This is a general-purpose ChatBot about retail clothing and accessories. ChatBot is able to discuss reviews, complaints, product satisfaction, and suggestions. The system has been equipped with a GUI for a cleaner interface and other new systems listed below.
 
 ## How to compile and run
-Firstly download the repository. Then run the "Main.py" file.
+First download "Main.py", "category.py", "preprocess.py", "response.py", and "subject.py"
+
+Then run the "Main.py" file.
 
