@@ -13,3 +13,10 @@ First download "Main.py", "category.py", "preprocess.py", "response.py", and "su
 
 Then run the "Main.py" file.
 
+# API Integration
+
+## Googles Feed API
+To take public feed and use it to help our Chatbot repond better and and analize better.
+
+## PayPal  API
+To expand our ChatBot to help with e-commerence sernerios.
